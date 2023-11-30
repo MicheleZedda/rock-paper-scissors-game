@@ -1,0 +1,52 @@
+@media (max-width: 750px) {
+  body {
+    margin: 50px 10px 0 10px;
+  }
+  h1 {
+    font-size: 50px;
+  }
+  .game-container {
+    border-radius: 50px;
+    margin-top: 30px;
+    padding: 50px 0 0 0;
+  }
+  .game-container p {
+    font-size: 30px;
+  }
+  .move-button1, .move-button2, .move-button3 {
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  .move-button3 {
+    margin-right: 0;
+  }
+  .move-icon {
+    height: 50px;
+  }
+  .result {
+    font-size: 30px;
+  }
+}
+@media (min-width: 750.02px) and (max-width: 1800px) {
+  body {
+    margin: 50px 50px 0 50px;
+  }
+  .game-container {
+    border-radius: 50px;
+    margin-top: 60px;
+    padding: 50px 0 0 0;
+  }
+}
+@media (min-width: 1500.02px) and (max-width: 1980px) {
+  body {
+    margin: 50px 100px 0 100px;
+  }
+  .game-container {
+    border-radius: 50px;
+    margin-top: 60px;
+    padding: 50px 0 0 0;
+  }
+}
