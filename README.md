@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <img src="https://michelezedda.github.io/counter/assets/images/favicon.ico" width="200">
+    <img src="https://michelezedda.github.io/rock-paper-scissors-game/assets/images/favicon.ico" width="200">
   <br>
   Rock Paper Scissors Game
   <br>
