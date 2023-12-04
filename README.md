@@ -27,7 +27,7 @@ Click the "Paper" button to play paper.
 Click the "Scissors" button to play scissors.
 
 # Reset Button:
-Click the "Reset" button to reset the counter to the initial value.
+Click the "Reset" button to reset the counter to its initial value.
 
 # Auto Play Button:
 Click the "Auto Play" button to play randomly and continuously.
