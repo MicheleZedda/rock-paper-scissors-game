@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h2 align="center">The iconic hand game</h4>
+<h2 align="center">The iconic hand game</h2>
 
 ## Introduction
 
