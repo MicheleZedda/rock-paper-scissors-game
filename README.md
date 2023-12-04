@@ -14,7 +14,7 @@
 
 ## How To Play
 
-Play this game is easy and intuitive.
+Play this game is easy and intuitive:
 
 ```bash
 # Rock Button:
