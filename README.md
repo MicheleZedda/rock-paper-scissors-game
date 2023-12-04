@@ -8,30 +8,29 @@
 
 <h2 align="center">The iconic hand game</h4>
 
-## Key Features
+## Introduction
 
-* 
-
-* 
-  
-* 
+* A quick hand game of three moves - rock, paper, scissors - with simple rules: rock beats scissors, scissors cut paper, and paper covers rock.
 
 ## How To Play
 
-Play this game is easy and intuitive. Follow these steps to get started:
+Play this game is easy and intuitive.
 
 ```bash
 # Rock Button:
-To increase the count, click the "+" button.
-Watch as the numerical value on the counter display goes up.
+Click the "Rock" button to play rock.
 
 # Paper Button:
-To decrease the count, click the "-" button.
-Observe the numerical value on the counter display decreasing.
+Click the "Paper" button to play paper.
 
 # Scissors Button:
-To reset the count, click the "Reset" button.
-Observe the numerical value on the counter returning to the initial value.
+Click the "Scissors" button to play scissors.
+
+# Reset Button:
+Click the "Reset" button to reset the counter to the initial value.
+
+# Auto Play Button:
+Click the "Auto Play" button to play randomly and continuously.
 ```
 
 ## Project Link
