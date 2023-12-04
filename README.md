@@ -36,4 +36,4 @@ Observe the numerical value on the counter returning to the initial value.
 
 ## Project Link
 
-You can try infinityCounter by clicking the following link :link: [infinityCounter](https://ila1997.github.io/Counter/)
+You can play Rock Paper Scissors by clicking the following link :link: [Rock Paper Scissors Game](https://michelezedda.github.io/rock-paper-scissors-game/)
