@@ -35,4 +35,4 @@ Click the "Auto Play" button to play randomly and continuously.
 
 ## Project Link
 
-You can play Rock Paper Scissors by clicking the following link :link: [Rock Paper Scissors Game](https://michelezedda.github.io/rock-paper-scissors-game/)
+You can play Rock Paper Scissors by clicking the following link :link: [Rock Paper Scissors Game](https://thehandgame.netlify.app/)
