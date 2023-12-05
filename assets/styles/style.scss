@@ -83,26 +83,5 @@ color: $primary-color;
 background-color:  rgba(22, 21, 20, 0.6);
 transform: scale(.98);
 }
-#footer {
-color: $black-color;
-background-color: lighten($gray-color, 10%);
-border: 5px solid $black-color;
-border-radius: 20px;
-padding: 30px;
-width: 100%;
-margin: 100px 0 20px 0;
-p {
-    font-size: 25px;
-    font-weight: 500;
-  }
-  a {
-    text-decoration: none;
-    color: $black-color;
-    cursor: pointer;
-  }
-}
-#footer a:hover {
-  color: $primary-color;
-}
 
 @import 'media';
