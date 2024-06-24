@@ -33,5 +33,6 @@ Click the "Auto Play" button to play randomly and continuously.
 
 ## Project Link
 
-You can play Rock Paper Scissors by clicking the following link :link: [Rock Paper Scissors Game](https://thehandgame.netlify.app/) <br/>
+You can play Rock Paper Scissors by clicking the following link :link: [Rock Paper Scissors Game](https://thehandgame.netlify.app/)
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ea84c5c6-3612-4d6a-8269-c47e921e3e44/deploy-status)](https://app.netlify.com/sites/thehandgame/deploys)
