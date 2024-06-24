@@ -6,8 +6,6 @@
   <br>
 </h1>
 
-<h2 align="center">The iconic hand game</h2>
-
 ## Introduction
 
 * A quick hand game of three moves - rock, paper, scissors - with simple rules: rock beats scissors, scissors cut paper, and paper covers rock.
